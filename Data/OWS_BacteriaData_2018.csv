@@ -1,0 +1,232 @@
+﻿Site_Number,Station_Name,Lat,Long,Sample_Time,Ecoli,Enterococci,Type
+2,Buggy Creek,35.31,-97.936,05/21/2018,74,160,Bacteria
+2,Buggy Creek,35.31,-97.936,06/04/2018,20.8,147.2,Bacteria
+2,Buggy Creek,35.31,-97.936,06/21/2018,10.4,166.8,Bacteria
+2,Buggy Creek,35.31,-97.936,07/11/2018,1,138,Bacteria
+2,Buggy Creek,35.31,-97.936,07/16/2018,12,2757.2,Bacteria
+2,Buggy Creek,35.31,-97.936,07/30/2018,5748,24619,Bacteria
+2,Buggy Creek,35.31,-97.936,08/13/2018,11.6,2419.6,Bacteria
+2,Buggy Creek,35.31,-97.936,08/27/2018,12.4,714,Bacteria
+2,Buggy Creek,35.31,-97.936,09/10/2018,32.4,9678.4,Bacteria
+2,Buggy Creek,35.31,-97.936,09/24/2018,6.2,579.4,Bacteria
+17,Butler Creek,35.581,-95.418,05/23/2018,110,259,Bacteria
+17,Butler Creek,35.581,-95.418,06/06/2018,34.4,233.2,Bacteria
+17,Butler Creek,35.581,-95.418,06/18/2018,25.2,120.4,Bacteria
+17,Butler Creek,35.581,-95.418,07/09/2018,19.4,198.4,Bacteria
+17,Butler Creek,35.581,-95.418,07/18/2018,16.4,155.2,Bacteria
+17,Butler Creek,35.581,-95.418,08/02/2018,24.6,38.4,Bacteria
+17,Butler Creek,35.581,-95.418,08/16/2018,35.5,172.3,Bacteria
+17,Butler Creek,35.581,-95.418,08/31/2018,30,689,Bacteria
+17,Butler Creek,35.581,-95.418,09/14/2018,16.9,172.3,Bacteria
+17,Butler Creek,35.581,-95.418,09/28/2018,309,1624,Bacteria
+22,Canadian River Deep Fork,35.659,-97.245,06/07/2018,537,1539,Bacteria
+22,Canadian River Deep Fork,35.659,-97.245,06/18/2018,4,447.6,Bacteria
+22,Canadian River Deep Fork,35.659,-97.245,06/19/2018,4,242,Bacteria
+22,Canadian River Deep Fork ,35.659,-97.245,07/02/2018,2827.2,1038,Bacteria
+22,Canadian River Deep Fork,35.659,-97.245,07/10/2018,23.2,95.2,Bacteria
+22,Canadian River Deep Fork,35.659,-97.245,07/17/2018,10.2,74.8,Bacteria
+22,Canadian River Deep Fork,35.659,-97.245,07/31/2018,85,195,Bacteria
+22,Canadian River Deep Fork,35.659,-97.245,08/15/2018,6.3,27.2,Bacteria
+22,Canadian River Deep Fork,35.659,-97.245,08/29/2018,8,198.4,Bacteria
+22,Canadian River Deep Fork,35.659,-97.245,09/14/2018,2,110.6,Bacteria
+22,Canadian River Deep Fork,35.659,-97.245,09/28/2018,30,847,Bacteria
+16,Coody Creek,35.714,-95.322,05/23/2018,97,457,Bacteria
+16,Coody Creek,35.714,-95.322,06/06/2018,74.8,58.4,Bacteria
+16,Coody Creek,35.714,-95.322,06/18/2018,29.6,98.4,Bacteria
+16,Coody Creek,35.714,-95.322,07/09/2018,216.2,233.2,Bacteria
+16,Coody Creek,35.714,-95.322,07/18/2018,714,276.4,Bacteria
+16,Coody Creek,35.714,-95.322,08/02/2018,62,60.5,Bacteria
+16,Coody Creek,35.714,-95.322,08/16/2018,93.4,524.7,Bacteria
+16,Coody Creek,35.714,-95.322,08/31/2018,20,538,Bacteria
+16,Coody Creek,35.714,-95.322,09/14/2018,22.6,60.2,Bacteria
+16,Coody Creek,35.714,-95.322,09/28/2018,80.4,115.2,Bacteria
+9,Cottonwood Creek - Academy Rd,35.822,-97.46,05/22/2018,134,231,Bacteria
+9,Cottonwood Creek - Academy Rd,35.822,-97.46,06/05/2018,37.6,48,Bacteria
+9,Cottonwood Creek - Academy Rd,35.822,-97.46,06/20/2018,43.6,186,Bacteria
+9,Cottonwood Creek - Academy Rd,35.822,-97.46,07/12/2018,2,182.8,Bacteria
+9,Cottonwood Creek - Academy Rd,35.822,-97.46,07/17/2018,42.6,458,Bacteria
+9,Cottonwood Creek - Academy Rd,35.822,-97.46,08/01/2018,235.2,629.4,Bacteria
+9,Cottonwood Creek - Academy Rd,35.822,-97.46,08/14/2018,56.1,328.2,Bacteria
+9,Cottonwood Creek - Academy Rd,35.822,-97.46,08/29/2018,16.4,736.8,Bacteria
+9,Cottonwood Creek - Academy Rd,35.822,-97.46,09/12/2018,19.5,118.7,Bacteria
+9,Cottonwood Creek - Academy Rd,35.822,-97.46,09/26/2018,50,2359,Bacteria
+7,Cottonwood Creek - HWY 74,35.775,-97.585,05/22/2018,107,309,Bacteria
+7,Cottonwood Creek - HWY 74,35.775,-97.585,06/07/2018,729,11199,Bacteria
+7,Cottonwood Creek - HWY 74,35.775,-97.585,06/19/2018,16.4,1252,Bacteria
+7,Cottonwood Creek - HWY 74,35.775,-97.585,07/10/2018,14.2,665.6,Bacteria
+7,Cottonwood Creek - HWY 74,35.775,-97.585,07/17/2018,69,795.6,Bacteria
+7,Cottonwood Creek - HWY 74,35.775,-97.585,07/31/2018,4106,359,Bacteria
+7,Cottonwood Creek - HWY 74,35.775,-97.585,08/27/2018,47.6,2595.2,Bacteria
+7,Cottonwood Creek - HWY 74,35.775,-97.585,09/05/2018,14.4,143.9,Bacteria
+7,Cottonwood Creek - HWY 74,35.775,-97.585,09/10/2018,19.5,118.7,Bacteria
+7,Cottonwood Creek - HWY 74,35.775,-97.585,09/24/2018,359,4611,Bacteria
+5,Crooked Oak Creek,35.284,-97.415,05/21/2018,132,199,Bacteria
+5,Crooked Oak Creek,35.284,-97.415,06/04/2018,4,67.6,Bacteria
+5,Crooked Oak Creek,35.284,-97.415,06/21/2018,4839.2,1230.4,Bacteria
+5,Crooked Oak Creek,35.284,-97.415,07/11/2018,60.2,338,Bacteria
+5,Crooked Oak Creek,35.284,-97.415,07/16/2018,90.6,4044.8,Bacteria
+5,Crooked Oak Creek,35.284,-97.415,07/30/2018,12810,18600,Bacteria
+5,Crooked Oak Creek,35.284,-97.415,08/13/2018,32,240,Bacteria
+5,Crooked Oak Creek,35.284,-97.415,08/29/2018,80.8,189.2,Bacteria
+5,Crooked Oak Creek,35.284,-97.415,09/12/2018,16,235.9,Bacteria
+5,Crooked Oak Creek,35.284,-97.415,09/26/2018,8664,24196,Bacteria
+4,Crutcho Creek,35.435,-97.475,05/21/2018,295,609,Bacteria
+4,Crutcho Creek,35.435,-97.475,06/04/2018,58.4,136.4,Bacteria
+4,Crutcho Creek,35.435,-97.475,06/21/2018,2092.4,1844.4,Bacteria
+4,Crutcho Creek,35.435,-97.475,07/11/2018,15,101.2,Bacteria
+4,Crutcho Creek,35.435,-97.475,07/16/2018,96,1041.2,Bacteria
+4,Crutcho Creek,35.435,-97.475,07/30/2018,7915,24196,Bacteria
+4,Crutcho Creek,35.435,-97.475,08/13/2018,103.9,686.7,Bacteria
+4,Crutcho Creek,35.435,-97.475,08/29/2018,327,134,Bacteria
+4,Crutcho Creek,35.435,-97.475,09/12/2018,33.6,261.3,Bacteria
+4,Crutcho Creek,35.435,-97.475,09/26/2018,2700,24196,Bacteria
+8,Deer Creek,35.755,-97.563,05/22/2018,171,809,Bacteria
+8,Deer Creek,35.755,-97.563,06/07/2018,41,670,Bacteria
+8,Deer Creek,35.755,-97.563,06/19/2018,24,690.4,Bacteria
+8,Deer Creek,35.755,-97.563,07/10/2018,19,1089.2,Bacteria
+8,Deer Creek,35.755,-97.563,07/17/2018,105.6,642.8,Bacteria
+8,Deer Creek,35.755,-97.563,07/31/2018,3930,5380,Bacteria
+8,Deer Creek,35.755,-97.563,08/27/2018,57.6,1169.6,Bacteria
+8,Deer Creek,35.755,-97.563,09/05/2018,177.7,461.1,Bacteria
+8,Deer Creek,35.755,-97.563,09/10/2018,305,2430,Bacteria
+8,Deer Creek,35.755,-97.563,09/24/2018,1892,4352,Bacteria
+23,Dugout Creek,35.956,-97.016,06/07/2018,3654,24196,Bacteria
+23,Dugout Creek,35.956,-97.016,06/19/2018,20.4,767.2,Bacteria
+23,Dugout Creek,35.956,-97.016,07/02/2018,95,1041.2,Bacteria
+23,Dugout Creek,35.956,-97.016,07/10/2018,278.2,966,Bacteria
+23,Dugout Creek,35.956,-97.016,07/17/2018,32.2,432.4,Bacteria
+23,Dugout Creek,35.956,-97.016,07/31/2018,221,591,Bacteria
+23,Dugout Creek,35.956,-97.016,08/15/2018,547.5,2419.6,Bacteria
+23,Dugout Creek,35.956,-97.016,08/29/2018,41,420,Bacteria
+23,Dugout Creek,35.956,-97.016,09/12/2018,3.1,114.5,Bacteria
+23,Dugout Creek,35.956,-97.016,09/26/2018,119,1281,Bacteria
+18,Gentry Creek,35.537,-95.676,05/23/2018,317,250,Bacteria
+18,Gentry Creek,35.537,-95.676,06/06/2018,43.6,74,Bacteria
+18,Gentry Creek,35.537,-95.676,06/18/2018,116.8,40.5,Bacteria
+18,Gentry Creek,35.537,-95.676,07/09/2018,47,257.6,Bacteria
+18,Gentry Creek,35.537,-95.676,07/18/2018,43.6,182,Bacteria
+18,Gentry Creek,35.537,-95.676,08/02/2018,5.1,8.5,Bacteria
+18,Gentry Creek,35.537,-95.676,08/16/2018,166.4,517,Bacteria
+18,Gentry Creek,35.537,-95.676,08/31/2018,31,355,Bacteria
+18,Gentry Creek,35.537,-95.676,09/14/2018,9.5,27.5,Bacteria
+18,Gentry Creek,35.537,-95.676,09/28/2018,48,1041,Bacteria
+13,Kingfisher Creek,35.858,-97.994,05/22/2018,131,1211,Bacteria
+13,Kingfisher Creek,35.858,-97.994,06/05/2018,1041.2,1041.2,Bacteria
+13,Kingfisher Creek,35.858,-97.994,06/20/2018,1454,1302,Bacteria
+13,Kingfisher Creek,35.858,-97.994,07/12/2018,6.2,405.6,Bacteria
+13,Kingfisher Creek,35.858,-97.994,07/19/2018,336.8,334.4,Bacteria
+13,Kingfisher Creek,35.858,-97.994,08/01/2018,41.9,456.9,Bacteria
+13,Kingfisher Creek,35.858,-97.994,08/14/2018,5.2,34.1,Bacteria
+13,Kingfisher Creek,35.858,-97.994,08/27/2018,52,683,Bacteria
+13,Kingfisher Creek,35.858,-97.994,09/10/2018,31,5475,Bacteria
+13,Kingfisher Creek,35.858,-97.994,09/24/2018,119,6131,Bacteria
+15,Little Deep Fork Creek,35.828,-96.534,05/23/2018,206,203,Bacteria
+15,Little Deep Fork Creek,35.828,-96.534,06/06/2018,506.8,204.8,Bacteria
+15,Little Deep Fork Creek,35.828,-96.534,06/18/2018,95.2,122,Bacteria
+15,Little Deep Fork Creek,35.828,-96.534,07/09/2018,874.2,102.4,Bacteria
+15,Little Deep Fork Creek,35.828,-96.534,07/18/2018,130.8,159.6,Bacteria
+15,Little Deep Fork Creek,35.828,-96.534,07/31/2018,1246,1076,Bacteria
+15,Little Deep Fork Creek,35.828,-96.534,08/15/2018,727,2419.6,Bacteria
+15,Little Deep Fork Creek,35.828,-96.534,08/29/2018,190,1267.6,Bacteria
+15,Little Deep Fork Creek,35.828,-96.534,09/14/2018,72.3,39.9,Bacteria
+15,Little Deep Fork Creek,35.828,-96.534,09/28/2018,136.4,1302,Bacteria
+21,Little River,35.282,-97.37,05/23/2018,119,75,Bacteria
+21,Little River,35.282,-97.37,06/06/2018,37.2,38.8,Bacteria
+21,Little River,35.282,-97.37,06/18/2018,4,39.2,Bacteria
+21,Little River,35.282,-97.37,07/09/2018,34.2,20.8,Bacteria
+21,Little River,35.282,-97.37,07/18/2018,28.8,140,Bacteria
+21,Little River,35.282,-97.37,07/31/2018,311,435,Bacteria
+21,Little River,35.282,-97.37,08/15/2018,866.4,2419.6,Bacteria
+21,Little River,35.282,-97.37,08/31/2018,16.4,90.4,Bacteria
+21,Little River,35.282,-97.37,09/12/2018,85.2,129.6,Bacteria
+21,Little River,35.282,-97.37,09/26/2018,12947,24196,Bacteria
+20,Rock Creek,35.261,-97.336,05/23/2018,10,52,Bacteria
+20,Rock Creek,35.261,-97.336,06/06/2018,90.4,120.4,Bacteria
+20,Rock Creek,35.261,-97.336,06/18/2018,30,110,Bacteria
+20,Rock Creek,35.261,-97.336,07/09/2018,2022.4,526.8,Bacteria
+20,Rock Creek,35.261,-97.336,07/18/2018,91.2,212,Bacteria
+20,Rock Creek,35.261,-97.336,07/31/2018,95,239,Bacteria
+20,Rock Creek,35.261,-97.336,08/15/2018,1119.9,1732.9,Bacteria
+20,Rock Creek,35.261,-97.336,08/31/2018,53.6,215.2,Bacteria
+20,Rock Creek,35.261,-97.336,09/12/2018,8.4,325.5,Bacteria
+20,Rock Creek,35.261,-97.336,09/26/2018,12590,24196,Bacteria
+3,Shell Creek,35.508,-97.79,05/21/2018,144,504,Bacteria
+3,Shell Creek,35.508,-97.79,06/04/2018,43.6,467.6,Bacteria
+3,Shell Creek,35.508,-97.79,06/21/2018,24.2,503.6,Bacteria
+3,Shell Creek,35.508,-97.79,07/11/2018,129,606,Bacteria
+3,Shell Creek,35.508,-97.79,07/16/2018,85.6,373.6,Bacteria
+3,Shell Creek,35.508,-97.79,07/30/2018,1194.8,9678.4,Bacteria
+3,Shell Creek,35.508,-97.79,08/13/2018,52.8,235.9,Bacteria
+3,Shell Creek,35.508,-97.79,08/27/2018,116.8,2452.4,Bacteria
+3,Shell Creek,35.508,-97.79,09/10/2018,134.4,506.8,Bacteria
+3,Shell Creek,35.508,-97.79,09/24/2018,129.1,224.7,Bacteria
+25,Stillwater Creek - E 68th,36.044,-96.947,06/07/2018,9606,24196,Bacteria
+25,Stillwater Creek - E 68th,36.044,-96.947,06/19/2018,43.6,503.6,Bacteria
+25,Stillwater Creek - E 68th,36.044,-96.947,07/02/2018,721.8,2068.8,Bacteria
+25,Stillwater Creek - E 68th,36.044,-96.947,07/10/2018,33.2,285.6,Bacteria
+25,Stillwater Creek - E 68th,36.044,-96.947,07/17/2018,30.4,326.4,Bacteria
+25,Stillwater Creek - E 68th,36.044,-96.947,07/31/2018,620,880,Bacteria
+25,Stillwater Creek - E 68th,36.044,-96.947,08/15/2018,158.5,1732.9,Bacteria
+25,Stillwater Creek - E 68th,36.044,-96.947,08/29/2018,10,489,Bacteria
+25,Stillwater Creek - E 68th,36.044,-96.947,09/12/2018,19.9,111.9,Bacteria
+25,Stillwater Creek - E 68th,36.044,-96.947,09/26/2018,85,959,Bacteria
+12,Trail Creek,35.898,-97.857,05/22/2018,644,355,Bacteria
+12,Trail Creek,35.898,-97.857,06/05/2018,111.2,2068.8,Bacteria
+12,Trail Creek,35.898,-97.857,06/20/2018,46.4,5654.4,Bacteria
+12,Trail Creek,35.898,-97.857,07/12/2018,4839.2,9678.4,Bacteria
+12,Trail Creek,35.898,-97.857,07/19/2018,364.8,4184.8,Bacteria
+12,Trail Creek,35.898,-97.857,08/01/2018,40.3,658.6,Bacteria
+12,Trail Creek,35.898,-97.857,08/14/2018,5.1,435.2,Bacteria
+12,Trail Creek,35.898,-97.857,08/27/2018,74,5198.8,Bacteria
+12,Trail Creek,35.898,-97.857,09/10/2018,59.8,3683.2,Bacteria
+12,Trail Creek,35.898,-97.857,09/24/2018,245,4611,Bacteria
+11,Turkey Creek,35.978,-97.923,05/22/2018,118,285,Bacteria
+11,Turkey Creek,35.978,-97.923,06/05/2018,20.4,420,Bacteria
+11,Turkey Creek,35.978,-97.923,06/20/2018,14.6,130.8,Bacteria
+11,Turkey Creek,35.978,-97.923,07/12/2018,8,91.2,Bacteria
+11,Turkey Creek,35.978,-97.923,07/19/2018,108.8,645,Bacteria
+11,Turkey Creek,35.978,-97.923,08/01/2018,12,285.1,Bacteria
+11,Turkey Creek,35.978,-97.923,08/14/2018,10.7,133.4,Bacteria
+11,Turkey Creek,35.978,-97.923,08/27/2018,40,816,Bacteria
+11,Turkey Creek,35.978,-97.923,09/10/2018,384,4200,Bacteria
+11,Turkey Creek,35.978,-97.923,09/24/2018,85,1169,Bacteria
+14,Uncle John's Creek,35.828,-97.922,05/22/2018,132,379,Bacteria
+14,Uncle John's Creek,35.828,-97.922,06/05/2018,8,315,Bacteria
+14,Uncle John's Creek,35.828,-97.922,06/20/2018,50,995,Bacteria
+14,Uncle John's Creek,35.828,-97.922,07/12/2018,4,268,Bacteria
+14,Uncle John's Creek,35.828,-97.922,07/19/2018,20.8,568.4,Bacteria
+14,Uncle John's Creek,35.828,-97.922,08/01/2018,25.1,416,Bacteria
+14,Uncle John's Creek,35.828,-97.922,08/14/2018,15.8,122.3,Bacteria
+14,Uncle John's Creek,35.828,-97.922,08/27/2018,142,1274,Bacteria
+14,Uncle John's Creek,35.828,-97.922,09/10/2018,250,3500,Bacteria
+14,Uncle John's Creek,35.828,-97.922,09/24/2018,53.7,461.1,Bacteria
+1,Walnut Creek ,35.164,-97.614,05/21/2018,243,173,Bacteria
+1,Walnut Creek ,35.164,-97.614,06/21/2018,55,52.8,Bacteria
+1,Walnut Creek ,35.164,-97.614,07/02/2018,352.8,600,Bacteria
+1,Walnut Creek ,35.164,-97.614,07/11/2018,85.6,165.6,Bacteria
+1,Walnut Creek ,35.164,-97.614,07/16/2018,27,129.2,Bacteria
+1,Walnut Creek ,35.164,-97.614,07/30/2018,2595.2,9678.4,Bacteria
+1,Walnut Creek ,35.164,-97.614,08/13/2018,5.2,50.4,Bacteria
+1,Walnut Creek ,35.164,-97.614,08/27/2018,43.6,151.6,Bacteria
+1,Walnut Creek ,35.164,-97.614,09/10/2018,56.4,13540,Bacteria
+1,Walnut Creek ,35.164,-97.614,09/24/2018,686.7,613.1,Bacteria
+10,West Beaver Creek,36.101,-97.444,05/22/2018,151,10,Bacteria
+10,West Beaver Creek,36.101,-97.444,06/05/2018,4,63.2,Bacteria
+10,West Beaver Creek,36.101,-97.444,06/20/2018,23.8,11.6,Bacteria
+10,West Beaver Creek,36.101,-97.444,07/12/2018,497.8,325.2,Bacteria
+10,West Beaver Creek,36.101,-97.444,07/17/2018,1632.8,1549.2,Bacteria
+10,West Beaver Creek,36.101,-97.444,08/01/2018,360.9,436,Bacteria
+10,West Beaver Creek,36.101,-97.444,08/14/2018,54.5,22.6,Bacteria
+10,West Beaver Creek,36.101,-97.444,08/29/2018,213,512,Bacteria
+10,West Beaver Creek,36.101,-97.444,09/12/2018,95.9,172.3,Bacteria
+10,West Beaver Creek,36.101,-97.444,09/26/2018,228,1483,Bacteria
+6,West Elm Creek,35.334,-97.385,05/21/2018,72,97,Bacteria
+6,West Elm Creek,35.334,-97.385,06/05/2018,48.8,48.8,Bacteria
+6,West Elm Creek,35.334,-97.385,06/21/2018,203,665.6,Bacteria
+6,West Elm Creek,35.334,-97.385,07/11/2018,4,212,Bacteria
+6,West Elm Creek,35.334,-97.385,07/16/2018,47.6,326.4,Bacteria
+6,West Elm Creek,35.334,-97.385,07/30/2018,458,3022.4,Bacteria
+6,West Elm Creek,35.334,-97.385,08/13/2018,24.4,866.4,Bacteria
+6,West Elm Creek,35.334,-97.385,08/29/2018,101.2,518.4,Bacteria
+6,West Elm Creek,35.334,-97.385,09/12/2018,40.4,108.1,Bacteria
+6,West Elm Creek,35.334,-97.385,09/27/2018,12740,24196,Bacteria

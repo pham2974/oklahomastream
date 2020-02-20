@@ -1,0 +1,476 @@
+﻿Site_Number,Station_Name,Lat,Long,Ecoli,Enterococci,Type
+1,Walnut Creek ,35.164,-97.614,243,173,Bacteria
+2,Buggy Creek,35.31,-97.936,74,160,Bacteria
+3,Shell Creek,35.508,-97.79,144,504,Bacteria
+4,Crutcho Creek,35.435,-97.475,295,609,Bacteria
+5,Crooked Oak Creek,35.284,-97.415,132,134,Bacteria
+6,West Elm Creek,35.334,-97.385,72,97,Bacteria
+7,Cottonwood Creek - HWY 74,35.775,-97.585,63,135,Bacteria
+8,Deer Creek,35.755,-97.563,171,809,Bacteria
+9,Cottonwood Creek - Academy Rd,35.822,-97.46,134,231,Bacteria
+10,West Beaver Creek,36.101,-97.444,151,10,Bacteria
+11,Turkey Creek,35.978,-97.923,118,285,Bacteria
+12,Trail Creek,35.898,-97.857,644,355,Bacteria
+13,Kingfisher Creek,35.858,-97.994,131,1211,Bacteria
+14,Uncle John's Creek,35.828,-97.922,132,379,Bacteria
+15,Little Deep Fork Creek,35.828,-96.534,206,203,Bacteria
+16,Coody Creek,35.714,-95.322,97,457,Bacteria
+17,Butler Creek,35.581,-95.418,110,259,Bacteria
+18,Gentry Creek,35.537,-95.676,317,250,Bacteria
+20,Rock Creek,35.261,-97.336,10,52,Bacteria
+21,Little River,35.282,-97.37,119,75,Bacteria
+22,Canadian River Deep Fork,35.659,-97.245,537,1539,Bacteria
+23,Dugout Creek,35.956,-97.016,3654,24196,Bacteria
+25,Stillwater Creek - E 68th,36.044,-96.947,9606,24196,Bacteria
+1,Walnut Creek ,35.164,-97.614,55,52.8,Bacteria
+2,Buggy Creek,35.31,-97.936,20.8,147.2,Bacteria
+3,Shell Creek,35.508,-97.79,43.6,467.6,Bacteria
+4,Crutcho Creek,35.435,-97.475,58.4,136.4,Bacteria
+5,Crooked Oak Creek,35.284,-97.415,4,67.6,Bacteria
+6,West Elm Creek,35.334,-97.385,48.8,48.8,Bacteria
+7,Cottonwood Creek - HWY 74,35.775,-97.585,729,11199,Bacteria
+8,Deer Creek,35.755,-97.563,41,670,Bacteria
+9,Cottonwood Creek - Academy Rd,35.822,-97.46,37.6,48,Bacteria
+10,West Beaver Creek,36.101,-97.444,4,63.2,Bacteria
+11,Turkey Creek,35.978,-97.923,20.4,420,Bacteria
+12,Trail Creek,35.898,-97.857,111.2,2068.8,Bacteria
+13,Kingfisher Creek,35.858,-97.994,1041.2,1041.2,Bacteria
+14,Uncle John's Creek,35.828,-97.922,8,315,Bacteria
+15,Little Deep Fork Creek,35.828,-96.534,506.8,204.8,Bacteria
+16,Coody Creek,35.714,-95.322,74.8,58.4,Bacteria
+17,Butler Creek,35.581,-95.418,34.4,233.2,Bacteria
+18,Gentry Creek,35.537,-95.676,43.6,74,Bacteria
+20,Rock Creek,35.261,-97.336,90.4,120.4,Bacteria
+21,Little River,35.282,-97.37,37.2,38.8,Bacteria
+22,Canadian River Deep Fork,35.659,-97.245,4,242,Bacteria
+23,Dugout Creek,35.956,-97.016,20.4,767.2,Bacteria
+25,Stillwater Creek - E 68th,36.044,-96.947,43.6,503.6,Bacteria
+1,Walnut Creek ,35.164,-97.614,352.8,600,Bacteria
+2,Buggy Creek,35.31,-97.936,10.4,166.8,Bacteria
+3,Shell Creek,35.508,-97.79,24.2,503.6,Bacteria
+4,Crutcho Creek,35.435,-97.475,2092.4,1844.4,Bacteria
+5,Crooked Oak Creek,35.284,-97.415,4839.2,1230.4,Bacteria
+6,West Elm Creek,35.334,-97.385,203,665.6,Bacteria
+7,Cottonwood Creek - HWY 74,35.775,-97.585,16.4,1252,Bacteria
+8,Deer Creek,35.755,-97.563,24,690.4,Bacteria
+9,Cottonwood Creek - Academy Rd,35.822,-97.46,43.6,186,Bacteria
+10,West Beaver Creek,36.101,-97.444,23.8,11.6,Bacteria
+11,Turkey Creek,35.978,-97.923,14.6,130.8,Bacteria
+12,Trail Creek,35.898,-97.857,46.4,5654.4,Bacteria
+13,Kingfisher Creek,35.858,-97.994,1454,1302,Bacteria
+14,Uncle John's Creek,35.828,-97.922,50,995,Bacteria
+15,Little Deep Fork Creek,35.828,-96.534,95.2,122,Bacteria
+16,Coody Creek,35.714,-95.322,29.6,98.4,Bacteria
+17,Butler Creek,35.581,-95.418,25.2,120.4,Bacteria
+18,Gentry Creek,35.537,-95.676,116.8,40.5,Bacteria
+20,Rock Creek,35.261,-97.336,30,110,Bacteria
+21,Little River,35.282,-97.37,4,39.2,Bacteria
+22,Canadian River Deep Fork,35.659,-97.245,1642.4,998,Bacteria
+23,Dugout Creek,35.956,-97.016,95,1041.2,Bacteria
+25,Stillwater Creek - E 68th,36.044,-96.947,721.8,2068.8,Bacteria
+1,Walnut Creek ,35.164,-97.614,85.6,165.6,Bacteria
+2,Buggy Creek,35.31,-97.936,1,138,Bacteria
+3,Shell Creek,35.508,-97.79,129,606,Bacteria
+4,Crutcho Creek,35.435,-97.475,15,101.2,Bacteria
+5,Crooked Oak Creek,35.284,-97.415,60.2,338,Bacteria
+6,West Elm Creek,35.334,-97.385,4,212,Bacteria
+7,Cottonwood Creek - HWY 74,35.775,-97.585,14.2,665.6,Bacteria
+8,Deer Creek,35.755,-97.563,19,1089.2,Bacteria
+9,Cottonwood Creek - Academy Rd,35.822,-97.46,2,182.8,Bacteria
+10,West Beaver Creek,36.101,-97.444,497.8,325.2,Bacteria
+11,Turkey Creek,35.978,-97.923,8,91.2,Bacteria
+12,Trail Creek,35.898,-97.857,4839.2,9678.4,Bacteria
+13,Kingfisher Creek,35.858,-97.994,6.2,405.6,Bacteria
+14,Uncle John's Creek,35.828,-97.922,4,268,Bacteria
+15,Little Deep Fork Creek,35.828,-96.534,874.2,102.4,Bacteria
+16,Coody Creek,35.714,-95.322,216.2,233.2,Bacteria
+17,Butler Creek,35.581,-95.418,19.4,198.4,Bacteria
+18,Gentry Creek,35.537,-95.676,47,257.6,Bacteria
+20,Rock Creek,35.261,-97.336,2022.4,526.8,Bacteria
+21,Little River,35.282,-97.37,34.2,20.8,Bacteria
+22,Canadian River Deep Fork,35.659,-97.245,23.2,95.2,Bacteria
+23,Dugout Creek,35.956,-97.016,278.2,966,Bacteria
+25,Stillwater Creek - E 68th,36.044,-96.947,33.2,285.6,Bacteria
+1,Walnut Creek ,35.164,-97.614,27,129.2,Bacteria
+2,Buggy Creek,35.31,-97.936,12,2757.2,Bacteria
+3,Shell Creek,35.508,-97.79,85.6,373.6,Bacteria
+4,Crutcho Creek,35.435,-97.475,96,1041.2,Bacteria
+5,Crooked Oak Creek,35.284,-97.415,90.6,4044.8,Bacteria
+6,West Elm Creek,35.334,-97.385,47.6,326.4,Bacteria
+7,Cottonwood Creek - HWY 74,35.775,-97.585,69,795.6,Bacteria
+8,Deer Creek,35.755,-97.563,105.6,642.8,Bacteria
+9,Cottonwood Creek - Academy Rd,35.822,-97.46,42.6,458,Bacteria
+10,West Beaver Creek,36.101,-97.444,1632.8,1549.2,Bacteria
+11,Turkey Creek,35.978,-97.923,108.8,645,Bacteria
+12,Trail Creek,35.898,-97.857,364.8,4184.8,Bacteria
+13,Kingfisher Creek,35.858,-97.994,336.8,334.4,Bacteria
+14,Uncle John's Creek,35.828,-97.922,20.8,568.4,Bacteria
+15,Little Deep Fork Creek,35.828,-96.534,130.8,159.6,Bacteria
+16,Coody Creek,35.714,-95.322,714,276.4,Bacteria
+17,Butler Creek,35.581,-95.418,16.4,155.2,Bacteria
+18,Gentry Creek,35.537,-95.676,43.6,182,Bacteria
+20,Rock Creek,35.261,-97.336,91.2,212,Bacteria
+21,Little River,35.282,-97.37,28.8,140,Bacteria
+22,Canadian River Deep Fork,35.659,-97.245,10.2,74.8,Bacteria
+23,Dugout Creek,35.956,-97.016,32.2,432.4,Bacteria
+25,Stillwater Creek - E 68th,36.044,-96.947,30.4,326.4,Bacteria
+1,Walnut Creek ,35.164,-97.614,2595.2,9678.4,Bacteria
+2,Buggy Creek,35.31,-97.936,5748,24619,Bacteria
+3,Shell Creek,35.508,-97.79,1194.8,9678.4,Bacteria
+4,Crutcho Creek,35.435,-97.475,7915,24196,Bacteria
+5,Crooked Oak Creek,35.284,-97.415,12810,18600,Bacteria
+6,West Elm Creek,35.334,-97.385,458,3022.4,Bacteria
+7,Cottonwood Creek - HWY 74,35.775,-97.585,4106,359,Bacteria
+8,Deer Creek,35.755,-97.563,3930,5380,Bacteria
+9,Cottonwood Creek - Academy Rd,35.822,-97.46,235.2,629.4,Bacteria
+10,West Beaver Creek,36.101,-97.444,360.9,436,Bacteria
+11,Turkey Creek,35.978,-97.923,12,285.1,Bacteria
+12,Trail Creek,35.898,-97.857,40.3,658.6,Bacteria
+13,Kingfisher Creek,35.858,-97.994,41.9,456.9,Bacteria
+14,Uncle John's Creek,35.828,-97.922,25.1,416,Bacteria
+15,Little Deep Fork Creek,35.828,-96.534,1246,1076,Bacteria
+16,Coody Creek,35.714,-95.322,62,60.5,Bacteria
+17,Butler Creek,35.581,-95.418,24.6,38.4,Bacteria
+18,Gentry Creek,35.537,-95.676,5.1,8.5,Bacteria
+20,Rock Creek,35.261,-97.336,95,239,Bacteria
+21,Little River,35.282,-97.37,311,435,Bacteria
+22,Canadian River Deep Fork,35.659,-97.245,85,195,Bacteria
+23,Dugout Creek,35.956,-97.016,221,591,Bacteria
+25,Stillwater Creek - E 68th,36.044,-96.947,620,880,Bacteria
+1,Walnut Creek ,35.164,-97.614,5.2,50.4,Bacteria
+2,Buggy Creek,35.31,-97.936,11.6,2419.6,Bacteria
+3,Shell Creek,35.508,-97.79,52.8,235.9,Bacteria
+4,Crutcho Creek,35.435,-97.475,103.9,686.7,Bacteria
+5,Crooked Oak Creek,35.284,-97.415,32,240,Bacteria
+6,West Elm Creek,35.334,-97.385,24.4,866.4,Bacteria
+7,Cottonwood Creek - HWY 74,35.775,-97.585,14.4,143.9,Bacteria
+8,Deer Creek,35.755,-97.563,177.7,461.1,Bacteria
+9,Cottonwood Creek - Academy Rd,35.822,-97.46,56.1,328.2,Bacteria
+10,West Beaver Creek,36.101,-97.444,54.5,22.6,Bacteria
+11,Turkey Creek,35.978,-97.923,10.7,133.4,Bacteria
+12,Trail Creek,35.898,-97.857,5.1,435.2,Bacteria
+13,Kingfisher Creek,35.858,-97.994,5.2,34.1,Bacteria
+14,Uncle John's Creek,35.828,-97.922,15.8,122.3,Bacteria
+15,Little Deep Fork Creek,35.828,-96.534,727,2419.6,Bacteria
+16,Coody Creek,35.714,-95.322,93.4,524.7,Bacteria
+17,Butler Creek,35.581,-95.418,35.5,172.3,Bacteria
+18,Gentry Creek,35.537,-95.676,166.4,517,Bacteria
+20,Rock Creek,35.261,-97.336,1119.9,1732.9,Bacteria
+21,Little River,35.282,-97.37,866.4,2419.6,Bacteria
+22,Canadian River Deep Fork,35.659,-97.245,6.3,27.2,Bacteria
+23,Dugout Creek,35.956,-97.016,547.5,2419.6,Bacteria
+25,Stillwater Creek - E 68th,36.044,-96.947,158.5,1732.9,Bacteria
+1,Walnut Creek ,35.164,-97.614,43.6,151.6,Bacteria
+2,Buggy Creek,35.31,-97.936,12.4,714,Bacteria
+3,Shell Creek,35.508,-97.79,116.8,2452.4,Bacteria
+4,Crutcho Creek,35.435,-97.475,327,134,Bacteria
+5,Crooked Oak Creek,35.284,-97.415,80.8,189.2,Bacteria
+6,West Elm Creek,35.334,-97.385,101.2,518.4,Bacteria
+7,Cottonwood Creek - HWY 74,35.775,-97.585,47.6,2595.2,Bacteria
+8,Deer Creek,35.755,-97.563,57.6,1169.6,Bacteria
+9,Cottonwood Creek - Academy Rd,35.822,-97.46,16.4,736.8,Bacteria
+10,West Beaver Creek,36.101,-97.444,213,512,Bacteria
+11,Turkey Creek,35.978,-97.923,40,816,Bacteria
+12,Trail Creek,35.898,-97.857,74,5198.8,Bacteria
+13,Kingfisher Creek,35.858,-97.994,52,683,Bacteria
+14,Uncle John's Creek,35.828,-97.922,142,1274,Bacteria
+15,Little Deep Fork Creek,35.828,-96.534,190,1267.6,Bacteria
+16,Coody Creek,35.714,-95.322,20,538,Bacteria
+17,Butler Creek,35.581,-95.418,30,689,Bacteria
+18,Gentry Creek,35.537,-95.676,31,355,Bacteria
+20,Rock Creek,35.261,-97.336,53.6,215.2,Bacteria
+21,Little River,35.282,-97.37,16.4,90.4,Bacteria
+22,Canadian River Deep Fork,35.659,-97.245,8,198.4,Bacteria
+23,Dugout Creek,35.956,-97.016,41,420,Bacteria
+25,Stillwater Creek - E 68th,36.044,-96.947,10,489,Bacteria
+1,Walnut Creek ,35.164,-97.614,56.4,13540,Bacteria
+2,Buggy Creek,35.31,-97.936,32.4,9678.4,Bacteria
+3,Shell Creek,35.508,-97.79,134.4,506.8,Bacteria
+4,Crutcho Creek,35.435,-97.475,33.6,261.3,Bacteria
+5,Crooked Oak Creek,35.284,-97.415,16,235.9,Bacteria
+6,West Elm Creek,35.334,-97.385,40.4,108.1,Bacteria
+7,Cottonwood Creek - HWY 74,35.775,-97.585,19.5,118.7,Bacteria
+8,Deer Creek,35.755,-97.563,305,2430,Bacteria
+9,Cottonwood Creek - Academy Rd,35.822,-97.46,19.5,118.7,Bacteria
+10,West Beaver Creek,36.101,-97.444,95.9,172.3,Bacteria
+11,Turkey Creek,35.978,-97.923,384,4200,Bacteria
+12,Trail Creek,35.898,-97.857,59.8,3683.2,Bacteria
+13,Kingfisher Creek,35.858,-97.994,31,5475,Bacteria
+14,Uncle John's Creek,35.828,-97.922,250,3500,Bacteria
+15,Little Deep Fork Creek,35.828,-96.534,72.3,39.9,Bacteria
+16,Coody Creek,35.714,-95.322,22.6,60.2,Bacteria
+17,Butler Creek,35.581,-95.418,16.9,172.3,Bacteria
+18,Gentry Creek,35.537,-95.676,9.5,27.5,Bacteria
+20,Rock Creek,35.261,-97.336,8.4,325.5,Bacteria
+21,Little River,35.282,-97.37,85.2,129.6,Bacteria
+22,Canadian River Deep Fork,35.659,-97.245,2,110.6,Bacteria
+23,Dugout Creek,35.956,-97.016,3.1,114.5,Bacteria
+25,Stillwater Creek - E 68th,36.044,-96.947,19.9,111.9,Bacteria
+1,Walnut Creek ,35.164,-97.614,686.7,613.1,Bacteria
+2,Buggy Creek,35.31,-97.936,6.2,579.4,Bacteria
+3,Shell Creek,35.508,-97.79,129.1,224.7,Bacteria
+4,Crutcho Creek,35.435,-97.475,2700,24196,Bacteria
+5,Crooked Oak Creek,35.284,-97.415,8664,24196,Bacteria
+6,West Elm Creek,35.334,-97.385,12740,24196,Bacteria
+7,Cottonwood Creek - HWY 74,35.775,-97.585,359,4611,Bacteria
+8,Deer Creek,35.755,-97.563,1892,4352,Bacteria
+9,Cottonwood Creek - Academy Rd,35.822,-97.46,50,2359,Bacteria
+10,West Beaver Creek,36.101,-97.444,228,1483,Bacteria
+11,Turkey Creek,35.978,-97.923,85,1169,Bacteria
+12,Trail Creek,35.898,-97.857,245,4611,Bacteria
+13,Kingfisher Creek,35.858,-97.994,119,6131,Bacteria
+14,Uncle John's Creek,35.828,-97.922,53.7,461.1,Bacteria
+15,Little Deep Fork Creek,35.828,-96.534,136.4,1302,Bacteria
+16,Coody Creek,35.714,-95.322,80.4,115.2,Bacteria
+17,Butler Creek,35.581,-95.418,309,1624,Bacteria
+18,Gentry Creek,35.537,-95.676,48,1041,Bacteria
+20,Rock Creek,35.261,-97.336,12590,24196,Bacteria
+21,Little River,35.282,-97.37,12947,24196,Bacteria
+22,Canadian River Deep Fork,35.659,-97.245,30,847,Bacteria
+23,Dugout Creek,35.956,-97.016,119,1281,Bacteria
+25,Stillwater Creek - E 68th,36.044,-96.947,85,959,Bacteria
+4,Crutcho Creek,35.435,-97.475,173,670,Bacteria
+5,Crooked Oak,35.284,-97.415,97,199,Bacteria
+7,Cottonwood Creek - HWY 74,35.775,-97.585,107,309,Bacteria
+14,Uncle Johns Creek,35.828,-97.922,95,379,Bacteria
+18,Gentry Creek,35.537,-95.676,226,420,Bacteria
+4,Crutcho Creek,35.435,-97.475,29.6,122,Bacteria
+5,Crooked Oak Creek,35.284,-97.415,4,115.2,Bacteria
+6,West Elm Creek,35.334,-97.385,16.4,53.6,Bacteria
+11,Turkey Creek,35.978,-97.923,20,352.8,Bacteria
+16,Coody Creek,35.714,-95.322,86.4,63.2,Bacteria
+20,Rock Creek,35.261,-97.336,84.4,120.4,Bacteria
+2,Buggy Creek,35.31,-97.936,10.4,145.6,Bacteria
+5,Crooked Oak Creek,35.435,-97.415,4839.2,1230.4,Bacteria
+8,Deer Creek,35.755,-97.563,20.4,740,Bacteria
+12,Trail Creek,35.898,-97.857,51.2,5654.4,Bacteria
+15,Little Deep Fork Creek,35.828,-96.534,20.4,90.4,Bacteria
+21,Little River ,35.282,-97.37,4,52.8,Bacteria
+22,Canadian River Deep Fork,35.659,-97.245,4,447.6,Bacteria
+22,Canadian River Deep Fork ,35.659,-97.245,2827.2,1038,Bacteria
+4,Crutcho Creek,35.435,-97.475,8.2,0,Bacteria
+7,Cottonwood Creek - HWY 74,35.775,-97.585,18.6,0,Bacteria
+9,Cottonwood Creek - Academy Rd,35.822,-97.46,6,0,Bacteria
+13,Kingfisher Creek,35.858,-97.994,6.2,0,Bacteria
+1,Walnut Creek,35.164,-97.614,35,96.4,Bacteria
+7,Cottonwood @ HWY 74,35.775,-97.585,28.8,1045.2,Bacteria
+14,Uncle Johns Creek,35.828,-97.922,16.4,943.6,Bacteria
+6,West Elm Creek,35.334,-97.385,430,4813.2,Bacteria
+10,West Beaver Creek,36.101,-97.444,328.2,524.7,Bacteria
+12,Trail Creek,35.898,-97.857,68.7,658.6,Bacteria
+21,Little River,35.282,-97.37,683,0,Bacteria
+25,Stillwater Creek - E 68th,36.044,-96.947,754,0,Bacteria
+3,Shell Creek,35.508,-97.79,31.1,0,Bacteria
+5,Crooked Oak Creek,35.284,-97.415,154,0,Bacteria
+20,Rock Creek,35.261,-97.336,58,0,Bacteria
+8,Deer Creek,35.755,-97.563,305,1780,Bacteria
+21,Little River,35.282,-97.37,18.5,0,Bacteria
+4,Crutcho Creek,35.435,-97.475,4907,0,Bacteria
+14,Uncle Johns Creek,35.828,-97.922,75.4,0,Bacteria
+17,Butler Creek,35.581,-95.418,379,0,Bacteria
+18,Gentry Creek,35.537,-95.676,0,153.6,Bacteria
+23,Dugout Creek,35.956,-97.016,0,616.4,Bacteria
+1,Walnut Creek,35.164,-97.614,35,96.4,Bacteria
+6,West Elm Creek,35.334,-97.385,0,373.2,Bacteria
+7,Cottonwood Creek - HWY 74,35.775,-97.585,28.8,1045.2,Bacteria
+10,West Beaver Creek,36.101,-97.444,0,2068.8,Bacteria
+14,Uncle Johns Creek,35.828,-97.922,16.4,943.6,Bacteria
+6,West Elm Creek,35.334,-97.385,430,4813.2,Bacteria
+14,Uncle Johns Creek,35.828,-97.922,0,143,Bacteria
+7,Cottonwood Creek - HWY 74,35.775,-97.585,0,1844.4,Bacteria
+5,Crooked Oak Creek,35.284,-97.415,0,155.3,Bacteria
+11,Turkey Creek,35.978,-97.923,0,0,Bacteria
+14,Uncle Johns Creek,35.828,-97.922,0,0,Bacteria
+21,Little River ,35.282,-97.37,0,0,Bacteria
+10,West Beaver,36.101,-97.444,0,0,Bacteria
+20,Rock Creek,35.261,-97.336,0,0,Bacteria
+16,Coody Creek,35.714,-95.322,0,0,Bacteria
+11,Turkey Creek,35.978,-97.923,0,0,Bacteria
+3,Shell Creek,35.508,-97.79,0,0,Bacteria
+2,Buggy Creek,35.31,-97.936,1,0,Bacteria
+9,Cottonwood - Academy Rd,35.822,-97.46,0,0,Bacteria
+16,Coody Creek,35.714,-95.322,0,0,Bacteria
+25,Stillwater Creek - E 68th,36.044,-96.947,0,0,Bacteria
+2,Buggy Creek,35.31,-97.936,0,0,Bacteria
+9,Cottonwood - Academy Rd,35.822,-97.46,0,0,Bacteria
+13,Kingfisher Creek,35.858,-97.994,0,0,Bacteria
+25,Stillwater Creek - E 68th,36.044,-96.947,0,0,Bacteria
+5,Crooked Oak Creek,35.284,-97.415,0,0,Bacteria
+11,Turkey Creek,35.978,-97.923,0,0,Bacteria
+15,Little Deep Fork Creek,35.828,-96.534,0,0,Bacteria
+25,Stillwater - E 68th,36.044,-96.947,0,0,Bacteria
+13,Kingfisher Creek,35.858,-97.994,0,0,Bacteria
+16,Coody Creek,35.714,-95.322,0,0,Bacteria
+14,Uncle Johns Creek,35.828,-97.922,0,0,Bacteria
+2,Buggy Creek,35.31,-97.936,0,0,Bacteria
+6,West Elm Creek,35.334,-97.385,0,0,Bacteria
+16,Coody Creek,35.714,-95.322,0,0,Bacteria
+7148400,"Salt Fork Arkansas River nr Alva, OK",36.81503056,-98.6481395,0,0,Streamflow
+7149000,"MEDICINE LODGE R NR KIOWA, KS",37.03891547,-98.4709092,0,0,Streamflow
+7149520,"Salt Fork Arkansas River at SH 11 nr Cherokee, OK",36.80555556,-98.2472222,0,0,Streamflow
+7151000,"Salt Fork Arkansas River at Tonkawa, OK",36.6719792,-97.3094887,0,0,Streamflow
+7151500,"CHIKASKIA R NR CORBIN, KS",37.12891225,-97.6019945,0,0,Streamflow
+7152000,"Chikaskia River near Blackwell, OK",36.8114211,-97.277265,0,0,Streamflow
+7152500,"Arkansas River at Ralston, OK",36.50421677,-96.7283672,0,0,Streamflow
+7153000,"Black Bear Creek at Pawnee, OK",36.34366537,-96.7994788,0,0,Streamflow
+7154500,"Cimarron River near Kenton, OK",36.92668707,-102.9590954,0,0,Streamflow
+7155590,"CIMARRON R NR ELKHART, KS",37.12196746,-101.8979456,0,0,Streamflow
+7156900,"Cimarron River near Forgan, OK",37.0111372,-100.4918171,0,0,Streamflow
+7157500,"CROOKED C NR ENGLEWOOD, KS",37.032528,-100.2112531,0,0,Streamflow
+7157950,"Cimarron River near Buffalo, OK",36.85197484,-99.315387,0,0,Streamflow
+7158000,"Cimarron River near Waynoka, OK",36.51725644,-98.8795366,0,0,Streamflow
+7159100,"Cimarron River near Dover, OK",35.95170756,-97.9144994,0,0,Streamflow
+7159750,"Cottonwood Creek near Seward, OK",35.81366006,-97.478097,0,0,Streamflow
+7160000,"Cimarron River near Guthrie, OK",35.9206023,-97.4258746,0,0,Streamflow
+7160350,"Skeleton Creek at Enid, OK",36.3761449,-97.8003332,0,0,Streamflow
+7160500,"Skeleton Creek near Lovell, OK",36.06004045,-97.5850471,0,0,Streamflow
+7161450,"Cimarron River near Ripley, OK",35.9858927,-96.9122504,0,0,Streamflow
+7164500,"Arkansas River at Tulsa, OK",36.14064807,-96.0063866,0,0,Streamflow
+7164600,"Joe Creek at 61st St at Tulsa, OK",36.07565044,-95.9605501,0,0,Streamflow
+7165562,"Haikey Creek at 101st St South at Tulsa, OK",36.01704297,-95.8488777,0,0,Streamflow
+7165565,"Little Haikey Creek at 101st St South at Tulsa, OK",36.01759824,-95.8608227,0,0,Streamflow
+7165570,"Arkansas River near Haskell, OK",35.82277778,-95.6377778,0,0,Streamflow
+7170500,"VERDIGRIS R AT INDEPENDENCE, KS",37.22368014,-95.6777573,0,0,Streamflow
+7171000,"Verdigris River near Lenapah, OK",36.85119615,-95.5860882,0,0,Streamflow
+7174400,"Caney River above Coon Creek at Bartlesville, OK",36.75564425,-95.9722064,0,0,Streamflow
+7175500,"Caney River near Ramona, OK",36.5089816,-95.8419306,0,0,Streamflow
+7176000,"Verdigris River near Claremore, OK",36.3075,-95.6997222,0,0,Streamflow
+7176321,"Bird Creek at SH 99 at Pawhuska, OK",36.66694444,-96.3138889,0,0,Streamflow
+7176500,"Bird Creek at Avant, OK",36.48508798,-96.0602743,0,0,Streamflow
+7176950,"Hominy Creek near Hominy, OK",36.4736793,-96.3789064,0,0,Streamflow
+7177500,"Bird Creek near Sperry, OK",36.27842534,-95.954162,0,0,Streamflow
+7177650,"Flat Rock Creek at Cincinnati Ave at Tulsa, OK",36.21536936,-95.9952759,0,0,Streamflow
+7177800,"Coal Creek at Tulsa, OK",36.1945384,-95.9141599,0,0,Streamflow
+7178000,"Bird Creek near Owasso, OK",36.24870534,-95.867213,0,0,Streamflow
+7178200,"Bird Ck at State Highway 266 near Catoosa, OK",36.2231514,-95.8194322,0,0,Streamflow
+7183500,"NEOSHO R NR PARSONS, KS",37.34005866,-95.1099687,0,0,Streamflow
+7185000,"Neosho River near Commerce, OK",36.92868144,-94.9574574,0,0,Streamflow
+7185030,"Elm Creek near Commerce, OK",36.92166667,-94.9183333,0,0,Streamflow
+7185090,"Tar Creek near Commerce, OK",36.94367956,-94.8532862,0,0,Streamflow
+7185095,"Tar Creek at 22nd Street Bridge at Miami, OK",36.90006955,-94.8682878,0,0,Streamflow
+7188000,"Spring River near Quapaw, OK",36.93451148,-94.7471711,0,0,Streamflow
+7188005,"Beaver Creek near Quapaw, OK",36.93388889,-94.7538889,0,0,Streamflow
+7189000,"Elk River near Tiff City, Mo",36.63146127,-94.5868886,0,0,Streamflow
+7189540,"Cave Springs Branch near South West City, MO",36.547297,-94.6180004,0,0,Streamflow
+7189542,"Honey Creek near South West City, MO",36.54888889,-94.6836111,0,0,Streamflow
+7190500,"Neosho River near Langley, OK",36.4389742,-95.048573,0,0,Streamflow
+7191000,"Big Cabin Creek near Big Cabin, OK",36.56841789,-95.1521891,0,0,Streamflow
+7191160,"Spavinaw Creek near Maysville, AR",36.36452259,-94.5513299,0,0,Streamflow
+7191179,"Spavinaw Creek near Cherokee City, AR",36.3420235,-94.58772,0,0,Streamflow
+7191220,"Spavinaw Creek near Sycamore, OK",36.3347222,-94.6413889,0,0,Streamflow
+71912213,"Spavinaw Creek near Colcord, OK",36.3225808,-94.6852238,0,0,Streamflow
+7191222,"Beaty Creek near Jay, OK",36.35535924,-94.7763388,0,0,Streamflow
+7191288,"Spavinaw Creek near Eucha, OK",36.37925097,-94.936901,0,0,Streamflow
+7191500,"Neosho River near Chouteau, OK",36.2295379,-95.182741,0,0,Streamflow
+7192100,"Spring Creek near Locust Grove, OK",36.1484276,-95.1574613,0,0,Streamflow
+7194500,"Arkansas River near Muskogee, OK",35.7695432,-95.2971867,0,0,Streamflow
+7195430,"Illinois River South of Siloam Springs, AR",36.1086111,-94.5333333,0,0,Streamflow
+7195500,"Illinois River near Watts, OK",36.13008185,-94.5721645,0,0,Streamflow
+7195800,"Flint Creek at Springtown, AR",36.2561111,-94.4336111,0,0,Streamflow
+7195855,"Flint Creek near West Siloam Springs, OK",36.2161111,-94.6052778,0,0,Streamflow
+7195865,"Sager Creek near West Siloam Springs, OK",36.20174844,-94.6052207,0,0,Streamflow
+7196000,"Flint Creek near Kansas, OK",36.18647245,-94.7068913,0,0,Streamflow
+7196090,"Illinois River at Chewey, OK",36.1042527,-94.7827283,0,0,Streamflow
+7196500,"Illinois River near Tahlequah, OK",35.92286888,-94.9235658,0,0,Streamflow
+7196900,"Baron Fork at Dutch Mills, AR",35.88,-94.4863889,0,0,Streamflow
+7197000,"Baron Fork at Eldon, OK",35.92120037,-94.8385633,0,0,Streamflow
+7197360,"Caney Creek near Barber, OK",35.7850906,-94.8563398,0,0,Streamflow
+7198000,"Illinois River near Gore, OK",35.5731511,-95.0688458,0,0,Streamflow
+7228000,"Canadian Rv nr Canadian, TX",35.935042,-100.3706884,0,0,Streamflow
+7228500,"Canadian River at Bridgeport, OK",35.54366175,-98.3178388,0,0,Streamflow
+7228940,"Canadian River near Mustang, OK",35.32416667,-97.7236111,0,0,Streamflow
+7229050,"Canadian River at Norman, OK",35.19451115,-97.4850339,0,0,Streamflow
+7229200,"Canadian River at Purcell, OK",35.01396104,-97.3475281,0,0,Streamflow
+7229300,"Walnut Creek at Purcell, OK",34.99896109,-97.3669727,0,0,Streamflow
+7230000,"Little River blw Lk Thunderbird nr Norman, OK",35.22173637,-97.2139165,0,0,Streamflow
+7230500,"Little River near Tecumseh, OK",35.17257416,-96.9319662,0,0,Streamflow
+7231000,"Little River near Sasakwa, OK",34.9653615,-96.5125113,0,0,Streamflow
+7231500,"Canadian River at Calvin, OK",34.97786698,-96.2436172,0,0,Streamflow
+7234000,"Beaver River at Beaver, OK",36.82224819,-100.5193158,0,0,Streamflow
+7235000,"Wolf Ck at Lipscomb, TX",36.23864885,-100.2756889,0,0,Streamflow
+7235600,"Wolf Creek nr Gage, OK",36.32666667,-99.7611111,0,0,Streamflow
+7237500,"North Canadian River at Woodward, OK",36.43670336,-99.2784383,0,0,Streamflow
+7238000,"North Canadian River near Seiling, OK",36.18337277,-98.9212057,0,0,Streamflow
+7239300,"North Canadian River blw Weavers Ck nr Watonga, OK",35.8119886,-98.4209053,0,0,Streamflow
+7239450,"North Canadian River near Calumet, OK",35.6169933,-98.0653316,0,0,Streamflow
+7239500,"North Canadian River near El Reno, OK",35.56310656,-97.9575498,0,0,Streamflow
+7239700,"North Canadian River near Yukon, OK",35.5394985,-97.7425442,0,0,Streamflow
+7240000,"Lake Hefner Canal near Oklahoma City, OK",35.55311129,-97.6200419,0,0,Streamflow
+7241000,"North Canadian River blw Lk Overholser nr OKC, OK",35.47866848,-97.6633752,0,0,Streamflow
+7241520,"North Canadian River at Britton Rd at OKC, OK",35.5656147,-97.367258,0,0,Streamflow
+7241550,"North Canadian River near Harrah, OK",35.5003412,-97.1939194,0,0,Streamflow
+7241780,"Squirrel Creek at Shawnee, OK",35.30416667,-96.9122222,0,0,Streamflow
+7241800,"North Canadian River at Shawnee, OK",35.33312675,-96.8694661,0,0,Streamflow
+7242000,"North Canadian River near Wetumka, OK",35.2656454,-96.2061167,0,0,Streamflow
+7242380,"Deep Fork at Warwick, OK",35.68089589,-97.0083615,0,0,Streamflow
+7243500,"Deep Fork near Beggs, OK",35.6739876,-96.0686077,0,0,Streamflow
+7245000,"Canadian River near Whitefield, OK",35.26231927,-95.2371891,0,0,Streamflow
+7247000,"Poteau River at Cauthron, AR",34.91888889,-94.2994444,0,0,Streamflow
+7247015,"Poteau River at Loving, OK",34.87982388,-94.4841112,0,0,Streamflow
+7247250,"Black Fork below Big Creek nr Page, OK",34.7737148,-94.5121685,0,0,Streamflow
+7247500,"Fourche Maline near Red Oak, OK",34.91259909,-95.1557985,0,0,Streamflow
+7249413,"Poteau River near Panama, OK",35.16565268,-94.6530016,0,0,Streamflow
+7249455,"Arkansas River at Ft. Smith, Ar.",35.3917577,-94.4324373,0,0,Streamflow
+7249800,"Lee Creek at Short, OK",35.5658333,-94.5319444,0,0,Streamflow
+7249920,"Little Lee Creek near Nicut, OK",35.57305556,-94.5569444,0,0,Streamflow
+7249985,"Lee Creek near Short, OK",35.5172222,-94.4641667,0,0,Streamflow
+7250550,"AR River at James W. Trimble L&D nr Van Buren, AR",35.34888889,-94.2983333,0,0,Streamflow
+7300000,"Salt Fk Red Rv nr Wellington, TX",34.95755294,-100.220949,0,0,Streamflow
+7300500,"Salt Fork Red River at Mangum, OK",34.85839374,-99.5087007,0,0,Streamflow
+7301110,"Salt Fork Red River near Elmer, OK",34.47896485,-99.38231,0,0,Streamflow
+7301300,"N Fk Red Rv nr Shamrock, TX",35.2642163,-100.2417855,0,0,Streamflow
+7301410,"Sweetwater Ck nr Kelton, TX",35.47310419,-100.1209501,0,0,Streamflow
+7301420,"Sweetwater Creek near Sweetwater, OK",35.42227237,-99.9692772,0,0,Streamflow
+7301500,"North Fork Red River near Carter, OK",35.16810838,-99.5073128,0,0,Streamflow
+7303000,"North Fork Red River blw Altus Dam nr Lugert, OK",34.88950479,-99.307028,0,0,Streamflow
+7303400,"Elm Fork of North Fork Red River nr Carl, OK",35.01172,-99.9037143,0,0,Streamflow
+7305000,"North Fork Red River near Headrick, OK",34.6381266,-99.103691,0,0,Streamflow
+7307028,"North Fork Red River near Tipton, OK",34.50702089,-99.2081389,0,0,Streamflow
+7309990,"East Cache Creek nr Lawton, OK",34.59416667,-98.3691667,0,0,Streamflow
+7311000,"East Cache Creek near Walters, OK",34.36230747,-98.2825468,0,0,Streamflow
+7311240,"West Cache Creek near Cookietown, OK",34.275,-98.3875,0,0,Streamflow
+7311500,"Deep Red Creek near Randlett, OK",34.22092454,-98.4531104,0,0,Streamflow
+7315500,"Red Rv nr Terral, OK",33.8787106,-97.9344798,0,0,Streamflow
+7315700,"Mud Creek near Courtney, OK",34.00426516,-97.566968,0,0,Streamflow
+7316000,"Red River near Gainesville, TX",33.7278833,-97.1600129,0,0,Streamflow
+7316500,"Washita River near Cheyenne, OK",35.62643705,-99.6684386,0,0,Streamflow
+7324200,"Washita River near Hammon, OK",35.65643696,-99.3062086,0,0,Streamflow
+7324400,"Washita River near Foss, OK",35.5389379,-99.1698128,0,0,Streamflow
+7325000,"Washita River near Clinton, OK",35.5308832,-98.9670296,0,0,Streamflow
+7325800,"Cobb Creek near Eakly, OK",35.2906111,-98.5942308,0,0,Streamflow
+7325840,"Lake Creek near Sickles, OK",35.39172078,-98.5178418,0,0,Streamflow
+7325850,"Lake Creek near Eakly, OK",35.29088918,-98.5292287,0,0,Streamflow
+7325860,"Willow Creek near Albert, OK",35.23339066,-98.4661702,0,0,Streamflow
+7326000,"Cobb Creek near Fort Cobb, OK",35.14367036,-98.4428358,0,0,Streamflow
+7326500,"Washita River at Anadarko, OK",35.08422846,-98.2433849,0,0,Streamflow
+7327442,"Little Washita River near Cyril, OK",34.89256647,-98.2331053,0,0,Streamflow
+7327447,"Little Washita River near Cement, OK",34.83784678,-98.1244903,0,0,Streamflow
+7327550,"Little Washita River East of Ninnekah, OK",34.9634007,-97.8994861,0,0,Streamflow
+7328100,"Washita River at Alex, OK",34.92590298,-97.7739273,0,0,Streamflow
+7328180,"North Criner Creek near Criner, OK",34.9714592,-97.5847555,0,0,Streamflow
+7328500,"Washita River near Pauls Valley, OK",34.75480245,-97.2514124,0,0,Streamflow
+7329780,"Honey Creek below Turner Falls near Davis, OK",34.4317552,-97.1472406,0,0,Streamflow
+7329849,"01S-03E-01 ABB 1 Antelope Spring at Sulphur, OK",34.50444444,-96.9411111,0,0,Streamflow
+73298507,Travertine Creek above U.S. 177 at Sulphur,34.50444444,-96.9688889,0,0,Streamflow
+7329852,"Rock Creek at Sulphur, OK",34.49536695,-96.9886281,0,0,Streamflow
+7331000,"Washita River near Dickson, OK",34.23342725,-96.9758447,0,0,Streamflow
+7331200,"Mill Creek near Mill Creek, OK",34.40509165,-96.8633439,0,0,Streamflow
+7331295,"Pennington Creek East of Mill Creek, OK",34.42036998,-96.7588959,0,0,Streamflow
+7331300,"Pennington Creek near Reagan, OK",34.3513333,-96.7103889,0,0,Streamflow
+7331383,"Pennington Creek at Capitol Ave at Tishomingo, OK",34.2347222,-96.6825,0,0,Streamflow
+7331600,"Red River at Denison Dam nr Denison, TX",33.81899124,-96.5633264,0,0,Streamflow
+7332390,"Blue River near Connerville, OK",34.383426,-96.6005579,0,0,Streamflow
+7332500,"Blue River near Blue, OK",33.99704088,-96.2410985,0,0,Streamflow
+7334000,"Muddy Boggy Creek near Farris, OK",34.27148539,-95.9122049,0,0,Streamflow
+7334238,"Sheep Creek Spring near Fittstown, OK",34.57305556,-96.6475,0,0,Streamflow
+7334800,"Clear Boggy Creek abv Caney Creek nr Caney, OK",34.2550899,-96.2127678,0,0,Streamflow
+7335300,"Muddy Boggy Creek near Unger, OK",34.02676714,-95.7502479,0,0,Streamflow
+7335500,"Red River at Arthur City, TX",33.8751049,-95.5019023,0,0,Streamflow
+7335700,"Kiamichi River near Big Cedar, OK",34.63843685,-94.6127236,0,0,Streamflow
+7335790,"Kiamichi River near Clayton, OK",34.5748229,-95.3408025,0,0,Streamflow
+7336200,"Kiamichi River near Antlers, OK",34.24871203,-95.6052475,0,0,Streamflow
+7336820,"Red River near De Kalb, TX",33.68400005,-94.6943774,0,0,Streamflow
+7337900,"Glover River near Glover, OK",34.09760677,-94.9021667,0,0,Streamflow
+7338500,"Little River blw Lukfata Creek, nr Idabel, OK",33.94122094,-94.7585482,0,0,Streamflow
+7338750,"Mountain Fork at Smithville, OK",34.4623262,-94.6352202,0,0,Streamflow
+7339000,"Mountain Fork near Eagletown, OK",34.04177757,-94.6199358,0,0,Streamflow
