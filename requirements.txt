@@ -2,7 +2,7 @@ dash==1.9.0
 dash-core-components==1.8.0
 dash-html-components==1.0.2
 hydrofunctions==0.1.7
-numpy==1.17.3
+numpy==1.22.0
 pandas==0.23.0
 pathlib
 plotly
